@@ -1,6 +1,6 @@
 I am a Fullstack Engineer with a passion for building upon Linux systems and Open Source. Web performance and user experience is what I focus on most.
 
-For more information contact me: ryanwild.com/contact/
+For more information contact me: <a href="https://ryanwild.com/contact" target="_blank">ryanwild.com/contact</a>
 
 Let's hack code together!
 
