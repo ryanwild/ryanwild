@@ -11,7 +11,7 @@ To see what I am currently building see my pinned repositories.
 
 Let's hack code together!
 
-![mast](/images/mast.jpg)(#)
+![mast](/images/mast.jpg)
 
 I am a proud member of [Boot.dev](https://www.boot.dev/u/wildman) and
 completed the following courses:
@@ -29,4 +29,7 @@ completed the following courses:
 <img src="/images/boot.dev/python-asteroids.png" alt="Python Asteroids Game" width="400" />
 <img src="/images/boot.dev/python-bookbot.png" alt="Python Bookbot Project" width="400" />
 <img src="/images/boot.dev/python-dsa.png" alt="Python Data Structures and Algorithms" width="400" />
+<img src="/images/boot.dev/python-fp.png" alt="Python Functional Programming" width="400" />
+<img src="/images/boot.dev/python-oop.png" alt="Python Object Oriented Programming" width="400" />
+<img src="/images/boot.dev/typescript-web-scraper.png" alt="TypeScript Web Scraper" width="400" />
 </div>
