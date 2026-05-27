@@ -16,5 +16,5 @@ Let's hack code together!
 I am a proud member of [Boot.dev](https://www.boot.dev/u/wildman) and
 completed the following courses:
 
-<img src="/images/boot.dev/phython-introduction.png" alt="Python Introduction" width="200" />
-<img src="/images/boot.dev/go.png" alt="Learn Go" width="200" />
+<img src="/images/boot.dev/phython-intro.png" alt="Python Introduction" width="400" />
+<img src="/images/boot.dev/go.png" alt="Learn Go" width="400" />
