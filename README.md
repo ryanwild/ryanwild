@@ -16,5 +16,13 @@ Let's hack code together!
 I am a proud member of [Boot.dev](https://www.boot.dev/u/wildman) and
 completed the following courses:
 
-<img src="/images/boot.dev/phython-intro.png" alt="Python Introduction" width="400" />
+<img src="/images/boot.dev/python-intro.png" alt="Python Introduction" width="400" />
 <img src="/images/boot.dev/go.png" alt="Learn Go" width="400" />
+<img src="/images/boot.dev/linux.png" alt="Linux" width="400" />
+<img src="/images/boot.dev/docker.png" alt="Docker" width="400" />
+<img src="/images/boot.dev/git.png" alt="Git" width="400" />
+<img src="/images/boot.dev/go-http-client.png" alt="Go Http Client" width="400" />
+<img src="/images/boot.dev/python-ai-agent.png" alt="Python AI Agent" width="400" />
+<img src="/images/boot.dev/python-asteroids.png" alt="Python Asteroids Game" width="400" />
+<img src="/images/boot.dev/python-bookbot.png" alt="Python Bookbot Project" width="400" />
+<img src="/images/boot.dev/python-dsa.png" alt="Python Data Structures and Algorithms" width="400" />
