@@ -19,17 +19,17 @@ completed the following courses:
 <div style="display: inline-grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;">
-<img src="/images/boot.dev/python-intro.png" alt="Python Introduction" width="400" />
-<img src="/images/boot.dev/go.png" alt="Learn Go" width="400" />
-<img src="/images/boot.dev/linux.png" alt="Linux" width="400" />
-<img src="/images/boot.dev/docker.png" alt="Docker" width="400" />
-<img src="/images/boot.dev/git.png" alt="Git" width="400" />
-<img src="/images/boot.dev/go-http-client.png" alt="Go Http Client" width="400" />
-<img src="/images/boot.dev/python-ai-agent.png" alt="Python AI Agent" width="400" />
-<img src="/images/boot.dev/python-asteroids.png" alt="Python Asteroids Game" width="400" />
-<img src="/images/boot.dev/python-bookbot.png" alt="Python Bookbot Project" width="400" />
-<img src="/images/boot.dev/python-dsa.png" alt="Python Data Structures and Algorithms" width="400" />
-<img src="/images/boot.dev/python-fp.png" alt="Python Functional Programming" width="400" />
-<img src="/images/boot.dev/python-oop.png" alt="Python Object Oriented Programming" width="400" />
-<img src="/images/boot.dev/typescript-web-scraper.png" alt="TypeScript Web Scraper" width="400" />
+<img src="/images/boot.dev/python-intro.png" alt="Python Introduction" width="320" />
+<img src="/images/boot.dev/go.png" alt="Learn Go" width="320" />
+<img src="/images/boot.dev/linux.png" alt="Linux" width="320" />
+<img src="/images/boot.dev/docker.png" alt="Docker" width="320" />
+<img src="/images/boot.dev/git.png" alt="Git" width="320" />
+<img src="/images/boot.dev/go-http-client.png" alt="Go Http Client" width="320" />
+<img src="/images/boot.dev/python-ai-agent.png" alt="Python AI Agent" width="320" />
+<img src="/images/boot.dev/python-asteroids.png" alt="Python Asteroids Game" width="320" />
+<img src="/images/boot.dev/python-bookbot.png" alt="Python Bookbot Project" width="320" />
+<img src="/images/boot.dev/python-dsa.png" alt="Python Data Structures and Algorithms" width="320" />
+<img src="/images/boot.dev/python-fp.png" alt="Python Functional Programming" width="320" />
+<img src="/images/boot.dev/python-oop.png" alt="Python Object Oriented Programming" width="320" />
+<img src="/images/boot.dev/typescript-web-scraper.png" alt="TypeScript Web Scraper" width="320" />
 </div>
