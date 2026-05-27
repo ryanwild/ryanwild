@@ -1,7 +1,8 @@
 # Ryan Wild
 
-I am a Fullstack Software Engineer with a passion for building upon
+A Fullstack Software Engineer with a passion for building upon
 Linux systems and Open Source.
+
 Web performance and user experience is what I focus on most.
 
 For more information contact me:
