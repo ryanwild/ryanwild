@@ -11,9 +11,10 @@ To see what I am currently building see my pinned repositories.
 
 Let's hack code together!
 
-![mast](/images/mast.jpg)
+![mast](/images/mast.jpg)(#)
 
 I am a proud member of [Boot.dev](https://www.boot.dev/u/wildman) and
 completed the following courses:
 
-![mast](/images/boot.dev/phython-intro.png | width=100)
+![Python Introduction](/images/boot.dev/phython-introduction.png | width=100)(<https://www.boot.dev/u/wildman>)
+![Learn Go](/images/boot.dev/go.png | width=100)(<https://www.boot.dev/u/wildman>)
