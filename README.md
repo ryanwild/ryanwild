@@ -16,6 +16,9 @@ Let's hack code together!
 I am a proud member of [Boot.dev](https://www.boot.dev/u/wildman) and
 completed the following courses:
 
+<div style="display: inline-grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;">
 <img src="/images/boot.dev/python-intro.png" alt="Python Introduction" width="400" />
 <img src="/images/boot.dev/go.png" alt="Learn Go" width="400" />
 <img src="/images/boot.dev/linux.png" alt="Linux" width="400" />
@@ -26,3 +29,4 @@ completed the following courses:
 <img src="/images/boot.dev/python-asteroids.png" alt="Python Asteroids Game" width="400" />
 <img src="/images/boot.dev/python-bookbot.png" alt="Python Bookbot Project" width="400" />
 <img src="/images/boot.dev/python-dsa.png" alt="Python Data Structures and Algorithms" width="400" />
+</div>
