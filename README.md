@@ -14,7 +14,7 @@ Let's hack code together!
 
 ![mast](/images/mast.jpg)
 
-I am a proud member of [Boot.dev](https://www.boot.dev/u/wildman) and
+Proud member of [Boot.dev](https://www.boot.dev/u/wildman) and
 completed the following courses:
 
 <div style="display: inline-grid;
