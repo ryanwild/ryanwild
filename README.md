@@ -1,9 +1,12 @@
 # Ryan Wild
 
-A Fullstack Software Engineer with a passion for building upon
+Fullstack/Platform Engineer with a passion for building upon
 Linux systems and Open Source.
 
 Web performance and user experience is what I focus on most.
+
+I am currently doing a deep dive into OAuth 2/2.1 and exploring
+the technology landscape.
 
 For more information contact me:
 [ryanwild.com/contact](https://ryanwild.com/contact)
