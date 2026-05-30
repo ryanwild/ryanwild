@@ -13,6 +13,10 @@ Let's hack code together!
 
 ![mast](/images/mast.jpg)
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/17755563-d6fb-48ae-b4a5-1b9fb388f17c/thumbnail" >
+</p>
+
 Proud member of [Boot.dev](https://www.boot.dev/u/wildman) and
 completed the following courses:
 
