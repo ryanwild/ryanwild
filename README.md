@@ -11,10 +11,6 @@ You can contact me here:
 
 Let's hack code together!
 
-<p align="left">
-  <img loading="lazy" src="https://api.boot.dev/v1/users/public/17755563-d6fb-48ae-b4a5-1b9fb388f17c/thumbnail" >
-</p>
-
 Proud member of [Boot.dev](https://www.boot.dev/u/wildman)
 
 <div style="display: inline-grid;
@@ -34,3 +30,6 @@ Proud member of [Boot.dev](https://www.boot.dev/u/wildman)
 <img loading="lazy" src="/images/boot.dev/python-oop.png" alt="Python Object Oriented Programming" width="320" />
 <img loading="lazy" src="/images/boot.dev/typescript-web-scraper.png" alt="TypeScript Web Scraper" width="320" />
 </div>
+<p align="left">
+  <img loading="lazy" src="https://api.boot.dev/v1/users/public/17755563-d6fb-48ae-b4a5-1b9fb388f17c/thumbnail" >
+</p>
