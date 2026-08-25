@@ -15,6 +15,6 @@ Proud member of [Boot.dev](https://www.boot.dev/u/wildman)
 
 <p align="left">
     <a href="https://www.boot.dev/u/wildman">
-      <img loading="lazy" src="https://api.boot.dev/v1/users/public/17755563-d6fb-48ae-b4a5-1b9fb388f17c/thumbnail" >
+      <img width="200" loading="lazy" src="https://api.boot.dev/v1/users/public/17755563-d6fb-48ae-b4a5-1b9fb388f17c/thumbnail" >
     </a>
 </p>
