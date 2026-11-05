@@ -40,3 +40,5 @@ I am also a proud member of [Boot.dev](https://www.boot.dev/u/wildman)
 <p align="left">
   <img loading="lazy" src="https://api.boot.dev/v1/users/public/17755563-d6fb-48ae-b4a5-1b9fb388f17c/thumbnail" >
 </p>
+
+<img loading="lazy" src="/images/ryan-wild.gif" alt="Ryan Wild since 1997" width="320" />
