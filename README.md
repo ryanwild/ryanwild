@@ -1,17 +1,24 @@
 # Ryan Wild
 
-Fullstack/Platform Engineer with a passion for building upon
-Linux systems and Open Source.
+Ryan is a Fullstack Software Engineer with a passion for Linux systems and open
+source, specializing in web performance and user experience.
 
-Web performance and user experience is what I focus on most. I am currently doing
-a deep dive into OAuth 2/2.1 and exploring the technology landscape.
+Golang, Python, TypeScript, Postgres, GraphQL and Kubernetes.
 
-You can contact me here:
-[ryanwild.com/contact](https://ryanwild.com/contact)
+For more information contact me: [ryanwild.com/contact/](https://ryanwild.com/contact)
+<br />
+<small>
+C.V. available upon request.
+</small>
 
-Let's hack code together!
+## Current Status
 
-Proud member of [Boot.dev](https://www.boot.dev/u/wildman)
+Building a "learn to code" platform.
+Reach out if you are seeking an experienced programmer.
+
+I am available for remote work.
+
+I am also a proud member of [Boot.dev](https://www.boot.dev/u/wildman)
 
 <div style="display: inline-grid;
     grid-template-columns: repeat(2, 1fr);
